@@ -1,0 +1,12 @@
+{
+    "Name": "Realistic bullet velocities",
+	"Authors": [ "RatedNovice" ],
+    "Description": "Increases bullet velocities of primary weapons and unguided rocket launchers to more closely replicate real life projectile velocities",
+    "Version": "1.0.0",
+	"URL": ""
+    "HasVeniceEXT": true,
+	"Tags": ["realistic-bullet-velocities"],
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    }
+}
